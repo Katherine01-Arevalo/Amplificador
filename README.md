@@ -4,6 +4,7 @@
 **2. MARCO TEÓRICO**
 
 **3.DIAGRAMAS**
+
 Circuito  ha analizar 
 
 ![1](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/1.png)
@@ -35,7 +36,9 @@ Tercer circuito
 En este circuito se observa que consta de dos fuentes de voltaje las cuales se encuentran conectadas a resistencia y posteriormente se encuentra conectadas al amplificador para este tercer análisis  se   observa que el  amplificador se está comportando como sumador amplificador.
 
 **6.APORTACIONES**
+
 Simulación del primer circuito
+
 ![A1](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/Amplificador1.PNG)
 
 Osciloscopio
@@ -60,6 +63,8 @@ Osciloscopio
 
 
 **7.PREREQUISITOS**
+
+Tener presente el amplificador a usar y que el mismo se encuetre  en conectado en las terminales correctas.
 
 **8.MANUAL DE USUARIO**
 
