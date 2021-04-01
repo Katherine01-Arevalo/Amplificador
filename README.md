@@ -91,7 +91,7 @@ Integradores/diferenciadores
 
 En un amplificador diferencial, la salida es proporcional a la diferencia de las dos entradas.
  Los cambios más grandes y rápidos en el voltaje de entrada producirán voltajes de salida más altos.
-
+ 
 3.	Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
 Amplificador de instrumentación 
@@ -114,6 +114,13 @@ No se produce enclavamiento cuando se excede el rango de modo común
 Producto ecológico sin Sb/Br
 Aplicaciones: Procesado de señal
 
+TABLAS 
+
+![tabla](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/tabla.PNG)
+
+ERROR RELATIVO
+
+![error](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/error.PNG)
 
 **7.PREREQUISITOS**
 
