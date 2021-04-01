@@ -3,6 +3,8 @@
 
 **2. MARCO TEÓRICO**
 
+![TEORIA](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/TEORIA.png)
+
 **3.DIAGRAMAS**
 
 Circuito  ha analizar 
@@ -36,6 +38,22 @@ Tercer circuito
 En este circuito se observa que consta de dos fuentes de voltaje las cuales se encuentran conectadas a resistencia y posteriormente se encuentra conectadas al amplificador para este tercer análisis  se   observa que el  amplificador se está comportando como sumador amplificador.
 
 **6.APORTACIONES**
+
+Op Amp Inversor.
+
+![Inversor](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/Inversor.png)
+
+Op Amp No Inversor.
+
+![No_Inversor](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/No_inversor.png)
+
+Op Amp Sumador.
+
+![Sumador](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/Sumador.png)
+
+Op Amp Comparador.
+
+![Amplificador](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/comparador.png)
 
 Simulación del primer circuito
 
