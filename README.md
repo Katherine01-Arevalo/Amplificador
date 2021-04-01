@@ -106,9 +106,11 @@ Este  amplificador tiene todas las características del amplificador operacional
 5) la ganancia es constante sobre una amplia banda de frecuencias.
 
 Amplificador  LM741CN
+
 es un amplificador operacional de propósito general que cuenta con un rendimiento mejorado sobre los estándares de la industria como el LM709.  El LM741  ofrece muchas características que hacen que su aplicación sea casi a prueba de protección de sobrecarga en la entrada y la salida, ausencia de enclavamiento cuando se excede el rango de modo común y libre de oscilaciones. .
 
 Aplicaciones.
+
 Protección contra sobrecarga en entrada y salida
 No se produce enclavamiento cuando se excede el rango de modo común
 Producto ecológico sin Sb/Br
