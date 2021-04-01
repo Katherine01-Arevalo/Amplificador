@@ -3,7 +3,7 @@
 
 **2. MARCO TEÓRICO**
 
-![TEORIA](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/TEORIA.png)
+![TEORIA]()
 
 **3.DIAGRAMAS**
 
