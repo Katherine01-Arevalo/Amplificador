@@ -1,6 +1,18 @@
 # Amplificador
 **1.OBJETIVOS**
 
+Generales:
+
+•	Analizar y evaluar amplificadores operacionales. 
+
+Específicos:
+
+•	Experimentar en un simulador el comportamiento de un amplificador aplicado a diversos usos.
+
+•	Explicar lo que ocurre con el voltaje aplicado a un amplificador si se lo aplica de diferentes maneras en un circuito. 
+
+•	Construir una tabla para comparar los valores del voltaje de salida calculados respecto a los obtenidos en la simulación. 
+
 **2. MARCO TEÓRICO**
 
 ![TEORIA](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/TEORIA.png)
