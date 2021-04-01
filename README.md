@@ -64,7 +64,7 @@ Osciloscopio
 
 **7.PREREQUISITOS**
 
-Tener presente el amplificador a usar y que el mismo se encuetre  en conectado en las terminales correctas.
+Tener presente el amplificador a usar y que el mismo se encuentre  en conectado en las terminales correctas.
 
 **8.MANUAL DE USUARIO**
 
