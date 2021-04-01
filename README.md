@@ -4,6 +4,11 @@
 **2. MARCO TEÓRICO**
 
 **3.DIAGRAMAS**
+Circuito  ha analizar 
+
+![1](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/1.png)
+![2](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/2.PNG)
+![3](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/3.PNG)
 
 **4.LISTA DE COMPONETES**
 -	Generador de señales
@@ -30,6 +35,29 @@ Tercer circuito
 En este circuito se observa que consta de dos fuentes de voltaje las cuales se encuentran conectadas a resistencia y posteriormente se encuentra conectadas al amplificador para este tercer análisis  se   observa que el  amplificador se está comportando como sumador amplificador.
 
 **6.APORTACIONES**
+Simulación del primer circuito
+![A1](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/Amplificador1.PNG)
+
+Osciloscopio
+
+![O1](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/osc1.PNG)
+
+Simulación del segundo circuito
+
+![A2](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/Amplificador.PNG)
+
+Osciloscopio
+
+![O2](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/amplificador2.PNG)
+
+Simulación del tercer circuito
+
+![A3](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/Ap3.PNG)
+
+Osciloscopio
+
+![O3](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/OSC3.PNG)
+
 
 **7.PREREQUISITOS**
 
