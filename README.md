@@ -61,6 +61,59 @@ Osciloscopio
 
 ![O3](https://github.com/Katherine01-Arevalo/Amplificador/blob/main/img/OSC3.PNG)
 
+Preguntas
+
+1.	Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
+
+Tensión de alimentación (V+ y V-): Es la tensión de alimentación máxima permitida que puede aplicarse con seguridad al amplificador. 
+
+Rango de Temperatura de operación (Tor): Es el rango de temperatura dentro del cual el dispositivo funcionar con las especificaciones mostradas.
+
+Tensión de entrada diferencial (Vid):Tensión máxima que puede aplicarse con seguridad entre los terminales de entrada diferencial sin flujo excesivo de corriente. Estos valores son variables
+
+Voltaje de entrada en modo común (Vcm): Es el rango de voltaje que se puede aplicar en ambas entradas respecto a tierra.
+
+Consumo de potencia (Pc): Es la potencia requerida para operar el AO o la potencia consumida por el AO con propósitos de polarización. 
+
+Disipación de potencia (PD): Es la potencia que un dispositivo particular es capaz de disipar con seguridad en forma continua mientras opera dentro de un rango de temperatura específico. Esta característica varía de acuerdo con el tipo de encapsulado. Por ejemplo, los encapsulados cerámicos permiten una alta disipación de potencia, los metálicos permiten la siguiente más alta disipación, en cambio los de plásticos tienen la más baja. 
+
+2.	Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+
+Amplificador inversor/no inversor
+
+El propósito definitivo de cualquier amplificador es aumentar la señal de un circuito en particular. Un amplificador operacional inversor aumentará la ganancia de la señal y también revertirá la polaridad de la señal de salida, de positivo a negativo o viceversa.
+  
+Amplificadores de suma/resta
+
+Estas dos variedades de amplificadores operacionales realizan un proceso aritmético en la señal. Un amplificador operacional de resta saca una señal que es igual a la resta entre sus dos entradas. Un amplificador de suma combina diferentes voltajes de un número de entradas, y saca una ganancia basándose en los voltajes combinados. Cualquiera de estos circuitos puede ser configurado para operar como sistemas inversores o no inversores.
+ 
+Integradores/diferenciadores
+
+En un amplificador diferencial, la salida es proporcional a la diferencia de las dos entradas.
+ Los cambios más grandes y rápidos en el voltaje de entrada producirán voltajes de salida más altos.
+
+3.	Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
+
+Amplificador de instrumentación 
+
+Este es un amplificador diferencial que consta de dos etapas, una etapa de entrada formada por dos amplificadores inversores, y una etapa de salida que es un amplificador diferencial. Resuelve todos los inconvenientes que se presenta en el amplificador diferencial.
+Este  amplificador tiene todas las características del amplificador operacional: 
+
+1) amplificación diferencial
+2) alta impedancia de entrada
+3) baja impedancia de salida
+4) la ganancia puede ser modificada
+5) la ganancia es constante sobre una amplia banda de frecuencias.
+
+Amplificador  LM741CN
+es un amplificador operacional de propósito general que cuenta con un rendimiento mejorado sobre los estándares de la industria como el LM709.  El LM741  ofrece muchas características que hacen que su aplicación sea casi a prueba de protección de sobrecarga en la entrada y la salida, ausencia de enclavamiento cuando se excede el rango de modo común y libre de oscilaciones. .
+
+Aplicaciones.
+Protección contra sobrecarga en entrada y salida
+No se produce enclavamiento cuando se excede el rango de modo común
+Producto ecológico sin Sb/Br
+Aplicaciones: Procesado de señal
+
 
 **7.PREREQUISITOS**
 
